@@ -2,3 +2,4 @@
 
 Contains weekly purchased quantities of 800 over products over 52 weeks. These data were used in the paper "Time series clustering: A superior alternative for market basket analysis" by Tan, Swee Chuan and San Lau, Jess Pei.
 
+The model can be improved for predictions by using Neural network autoregression models. (Will be working on this soon)
